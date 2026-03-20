@@ -70,7 +70,7 @@ function ResultPage() {
               <div key={item.skill} className="border border-gray-700 rounded-xl p-5">
                 <div className="flex items-center justify-between mb-2">
                   <h4 className="text-white font-bold text-lg">Week {item.week} — {item.skill}</h4>
-                  <span className={`text-xs px-3 py-1 rounded-full ${item.difficulty === 'Beginner' ? 'bg-green-900 text-green-300' : 'bg-yellow-900 text-yellow-300'}`}>
+                  <span className={`text-xs px-3 py-1 rounded-full ${item.difficulty === 'Beginner' ? 'bg-green-900 text-green-300' : item.difficulty === 'Advanced' ? 'bg-red-900 text-red-300' : 'bg-yellow-900 text-yellow-300'}`}>
                     {item.difficulty}
                   </span>
                 </div>
