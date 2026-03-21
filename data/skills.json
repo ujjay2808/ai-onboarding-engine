@@ -1,0 +1,22 @@
+[
+  "Python", "JavaScript", "Java", "C++", "C", "Go", "Ruby", "Swift",
+  "Kotlin", "TypeScript", "R", "Scala", "PHP", "Rust",
+  "React", "Angular", "Vue", "HTML", "CSS", "Node.js", "Next.js",
+  "Express", "Bootstrap", "Tailwind CSS", "jQuery",
+  "SQL", "MongoDB", "PostgreSQL", "MySQL", "SQLite", "Redis",
+  "Pandas", "NumPy", "Matplotlib", "Seaborn",
+  "Machine Learning", "Deep Learning", "Natural Language Processing",
+  "TensorFlow", "PyTorch", "Scikit-learn", "Keras", "OpenCV",
+  "Docker", "Kubernetes", "AWS", "Azure", "Google Cloud",
+  "CI/CD", "Git", "GitHub", "Linux", "Bash",
+  "REST API", "GraphQL", "Microservices", "System Design",
+  "Data Structures", "Algorithms", "Object Oriented Programming",
+  "Flask", "Django", "FastAPI", "Spring Boot",
+  "Figma", "UI/UX", "Agile", "Scrum",
+  "Excel", "Tableau", "Power BI",
+  "Project Management", "Communication", "Leadership", "Teamwork",
+  "Problem Solving", "Critical Thinking", "Time Management",
+  "Cybersecurity", "Networking", "Cloud Computing",
+  "Blockchain", "IoT", "AR/VR", "Game Development",
+  "Android Development", "iOS Development", "React Native", "Flutter"
+]
