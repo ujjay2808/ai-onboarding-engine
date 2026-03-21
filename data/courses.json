@@ -1,0 +1,82 @@
+{
+  "Python": [
+    {"title": "Python for Beginners", "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc", "platform": "YouTube", "level": "Beginner", "duration": "6 hours"},
+    {"title": "Python Bootcamp", "url": "https://www.coursera.org/learn/python", "platform": "Coursera", "level": "Beginner", "duration": "5 weeks"}
+  ],
+  "JavaScript": [
+    {"title": "JavaScript Full Course", "url": "https://www.youtube.com/watch?v=PkZNo7MFNFg", "platform": "YouTube", "level": "Beginner", "duration": "3.5 hours"},
+    {"title": "JavaScript Algorithms", "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/", "platform": "freeCodeCamp", "level": "Intermediate", "duration": "Self-paced"}
+  ],
+  "React": [
+    {"title": "React Full Course", "url": "https://www.youtube.com/watch?v=bMknfKXIFA8", "platform": "YouTube", "level": "Intermediate", "duration": "12 hours"},
+    {"title": "React - The Complete Guide", "url": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/", "platform": "Udemy", "level": "Intermediate", "duration": "48 hours"}
+  ],
+  "SQL": [
+    {"title": "SQL Full Course", "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY", "platform": "YouTube", "level": "Beginner", "duration": "4 hours"},
+    {"title": "SQL for Data Science", "url": "https://www.coursera.org/learn/sql-for-data-science", "platform": "Coursera", "level": "Beginner", "duration": "4 weeks"}
+  ],
+  "Git": [
+    {"title": "Git and GitHub Crash Course", "url": "https://www.youtube.com/watch?v=RGOj5yH7evk", "platform": "YouTube", "level": "Beginner", "duration": "1 hour"},
+    {"title": "Git Tutorial", "url": "https://www.freecodecamp.org/news/git-and-github-for-beginners/", "platform": "freeCodeCamp", "level": "Beginner", "duration": "Self-paced"}
+  ],
+  "Docker": [
+    {"title": "Docker Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo", "platform": "YouTube", "level": "Beginner", "duration": "2 hours"},
+    {"title": "Docker Mastery", "url": "https://www.udemy.com/course/docker-mastery/", "platform": "Udemy", "level": "Intermediate", "duration": "20 hours"}
+  ],
+  "Machine Learning": [
+    {"title": "Machine Learning Course", "url": "https://www.youtube.com/watch?v=NWONeJKn6kc", "platform": "YouTube", "level": "Intermediate", "duration": "10 hours"},
+    {"title": "ML Specialization", "url": "https://www.coursera.org/specializations/machine-learning-introduction", "platform": "Coursera", "level": "Intermediate", "duration": "3 months"}
+  ],
+  "Deep Learning": [
+    {"title": "Deep Learning Specialization", "url": "https://www.coursera.org/specializations/deep-learning", "platform": "Coursera", "level": "Advanced", "duration": "5 months"},
+    {"title": "Deep Learning Full Course", "url": "https://www.youtube.com/watch?v=aircAruvnKk", "platform": "YouTube", "level": "Advanced", "duration": "4 hours"}
+  ],
+  "Natural Language Processing": [
+    {"title": "NLP with Python", "url": "https://www.youtube.com/watch?v=X2vAabgKiuM", "platform": "YouTube", "level": "Advanced", "duration": "5 hours"},
+    {"title": "NLP Specialization", "url": "https://www.coursera.org/specializations/natural-language-processing", "platform": "Coursera", "level": "Advanced", "duration": "4 months"}
+  ],
+  "HTML": [
+    {"title": "HTML Full Course", "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg", "platform": "YouTube", "level": "Beginner", "duration": "2 hours"},
+    {"title": "HTML Tutorial", "url": "https://www.freecodecamp.org/learn/responsive-web-design/", "platform": "freeCodeCamp", "level": "Beginner", "duration": "Self-paced"}
+  ],
+  "CSS": [
+    {"title": "CSS Full Course", "url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc", "platform": "YouTube", "level": "Beginner", "duration": "3 hours"},
+    {"title": "CSS Tutorial", "url": "https://www.freecodecamp.org/learn/responsive-web-design/#basic-css", "platform": "freeCodeCamp", "level": "Beginner", "duration": "Self-paced"}
+  ],
+  "Node.js": [
+    {"title": "Node.js Full Course", "url": "https://www.youtube.com/watch?v=Oe421EPjeBE", "platform": "YouTube", "level": "Intermediate", "duration": "8 hours"},
+    {"title": "Node.js Tutorial", "url": "https://www.freecodecamp.org/news/get-started-with-nodejs/", "platform": "freeCodeCamp", "level": "Intermediate", "duration": "Self-paced"}
+  ],
+  "TypeScript": [
+    {"title": "TypeScript Full Course", "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs", "platform": "YouTube", "level": "Intermediate", "duration": "3 hours"},
+    {"title": "TypeScript Handbook", "url": "https://www.typescriptlang.org/docs/handbook/intro.html", "platform": "Official Docs", "level": "Intermediate", "duration": "Self-paced"}
+  ],
+  "AWS": [
+    {"title": "AWS Full Course", "url": "https://www.youtube.com/watch?v=k1RI5locZE4", "platform": "YouTube", "level": "Intermediate", "duration": "5 hours"},
+    {"title": "AWS Cloud Practitioner", "url": "https://www.coursera.org/learn/aws-cloud-practitioner-essentials", "platform": "Coursera", "level": "Beginner", "duration": "6 hours"}
+  ],
+  "Kubernetes": [
+    {"title": "Kubernetes Full Course", "url": "https://www.youtube.com/watch?v=X48VuDVv0do", "platform": "YouTube", "level": "Advanced", "duration": "4 hours"},
+    {"title": "Kubernetes Tutorial", "url": "https://www.freecodecamp.org/news/the-kubernetes-handbook/", "platform": "freeCodeCamp", "level": "Advanced", "duration": "Self-paced"}
+  ],
+  "Flask": [
+    {"title": "Flask Full Course", "url": "https://www.youtube.com/watch?v=Qr4QMBUPxWo", "platform": "YouTube", "level": "Intermediate", "duration": "6 hours"},
+    {"title": "Flask Tutorial", "url": "https://flask.palletsprojects.com/en/3.0.x/tutorial/", "platform": "Official Docs", "level": "Intermediate", "duration": "Self-paced"}
+  ],
+  "MongoDB": [
+    {"title": "MongoDB Full Course", "url": "https://www.youtube.com/watch?v=ofme2o29ngU", "platform": "YouTube", "level": "Beginner", "duration": "3 hours"},
+    {"title": "MongoDB University", "url": "https://learn.mongodb.com/", "platform": "MongoDB", "level": "Beginner", "duration": "Self-paced"}
+  ],
+  "TensorFlow": [
+    {"title": "TensorFlow Full Course", "url": "https://www.youtube.com/watch?v=tPYj3fFJGjk", "platform": "YouTube", "level": "Advanced", "duration": "6 hours"},
+    {"title": "TensorFlow Developer Certificate", "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice", "platform": "Coursera", "level": "Advanced", "duration": "4 months"}
+  ],
+  "Excel": [
+    {"title": "Excel Full Course", "url": "https://www.youtube.com/watch?v=Vl0H-qTclOg", "platform": "YouTube", "level": "Beginner", "duration": "3 hours"},
+    {"title": "Excel Skills for Business", "url": "https://www.coursera.org/specializations/excel", "platform": "Coursera", "level": "Beginner", "duration": "6 months"}
+  ],
+  "Tableau": [
+    {"title": "Tableau Full Course", "url": "https://www.youtube.com/watch?v=aHaOIvR00So", "platform": "YouTube", "level": "Intermediate", "duration": "4 hours"},
+    {"title": "Tableau Training", "url": "https://www.tableau.com/learn/training", "platform": "Tableau", "level": "Beginner", "duration": "Self-paced"}
+  ]
+}
