@@ -1,4 +1,17 @@
 {
+
+  "Go": [
+    {"title": "Go Programming Full Course", "url": "https://www.youtube.com/watch?v=un6ZyFkqFKo", "platform": "YouTube", "level": "Beginner", "duration": "3 hours"},
+    {"title": "Go Tutorial for Beginners", "url": "https://www.youtube.com/watch?v=yyUHQIec83I", "platform": "YouTube", "level": "Beginner", "duration": "1 hour"}
+  ],
+  "Agile": [
+    {"title": "Agile Crash Course", "url": "https://www.youtube.com/watch?v=502ILHjX9EE", "platform": "YouTube", "level": "Beginner", "duration": "1 hour"},
+    {"title": "Agile Fundamentals", "url": "https://www.coursera.org/learn/agile-fundamentals", "platform": "Coursera", "level": "Beginner", "duration": "4 weeks"}
+  ],
+  "Communication": [
+    {"title": "Communication Skills Course", "url": "https://www.youtube.com/watch?v=HAnw168huqA", "platform": "YouTube", "level": "Beginner", "duration": "2 hours"},
+    {"title": "Improve Communication Skills", "url": "https://www.coursera.org/learn/wharton-communication-skills", "platform": "Coursera", "level": "Beginner", "duration": "4 weeks"}
+  ],
   "Python": [
     {"title": "Python for Beginners", "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc", "platform": "YouTube", "level": "Beginner", "duration": "6 hours"},
     {"title": "Python Bootcamp", "url": "https://www.coursera.org/learn/python", "platform": "Coursera", "level": "Beginner", "duration": "5 weeks"}
@@ -79,4 +92,6 @@
     {"title": "Tableau Full Course", "url": "https://www.youtube.com/watch?v=aHaOIvR00So", "platform": "YouTube", "level": "Intermediate", "duration": "4 hours"},
     {"title": "Tableau Training", "url": "https://www.tableau.com/learn/training", "platform": "Tableau", "level": "Beginner", "duration": "Self-paced"}
   ]
+
+  
 }
