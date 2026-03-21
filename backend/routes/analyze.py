@@ -1,6 +1,6 @@
 from flask import Blueprint,request,jsonify
 from services.parser import parse_resume,parse_jd
-from services.skill_extractor import extract_skills
+from services.skill_extractor import extract_skills_list as extract_skills
 from services.skill_gap import compute_gap
 from services.scorer import compute_score
 from services.recommender import generate_roadmap
