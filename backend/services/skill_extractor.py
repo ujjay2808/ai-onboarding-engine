@@ -29,6 +29,8 @@ ALIASES = {
 }
 
 _SKILLS_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "data", "skills.json")
+if not os.path.exists(_SKILLS_PATH):
+    _SKILLS_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "skills.json")
 
 def _load_skills():
     try:

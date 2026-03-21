@@ -24,7 +24,10 @@ SKILL_GRAPH = {
 }
 
 # Load courses
-courses_path = os.path.join(os.path.dirname(__file__), '../../data/courses.json')
+base_dir = os.path.dirname(__file__)
+courses_path = os.path.join(base_dir, '../../data/courses.json')
+if not os.path.exists(courses_path):
+    courses_path = os.path.join(base_dir, '../data/courses.json')
 with open(courses_path, 'r') as f:
     COURSES = json.load(f)
 
