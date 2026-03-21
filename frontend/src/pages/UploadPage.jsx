@@ -23,7 +23,7 @@ function UploadPage() {
       const result = await analyzeData(formData)
       navigate('/result', { state: { result } })
     } catch (err) {
-      setError('Something went wrong. Please try again.')
+      setError(err.message || 'Could not extract skills from JD. Please try a TXT file instead.')
     } finally {
       setLoading(false)
     }

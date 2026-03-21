@@ -20,7 +20,11 @@ def analyze():
     resume_skills = extract_skills(resume_text)
     jd_skills = extract_skills(jd_text)
 
-    missing_skills = compute_gap(resume_skills,jd_skills)
+    # If JD extraction failed (design-heavy PDF), return helpful error
+    if len(jd_skills) == 0:
+        return jsonify({"error": "Could not extract skills from JD. Please use a text-based PDF or TXT file."}), 400
+
+    missing_skills = compute_gap(resume_skills, jd_skills)
     match_score = compute_score(resume_skills,jd_skills)
     roadmap = generate_roadmap(missing_skills,resume_skills,jd_skills)
 
