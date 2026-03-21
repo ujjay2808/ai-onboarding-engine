@@ -2,7 +2,6 @@ import json
 import os
 from collections import deque
 
-# Skill dependency graph — prerequisites first
 SKILL_GRAPH = {
     'React': ['JavaScript', 'HTML', 'CSS'],
     'Node.js': ['JavaScript'],
@@ -23,7 +22,6 @@ SKILL_GRAPH = {
     'MongoDB': ['SQL'],
 }
 
-# Load courses
 courses_path = os.path.join(os.path.dirname(__file__), '../../data/courses.json')
 with open(courses_path, 'r') as f:
     COURSES = json.load(f)
